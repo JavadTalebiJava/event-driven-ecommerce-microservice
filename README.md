@@ -1,8 +1,8 @@
 # event-driven-ecommerce-microservice
-A event Driven e-Commerce sample based on Kafka
+An Event Driven e-Commerce sample based on Apache Kafka
 
-## Authors
+## Author
 - [Javad Talebi](https://github.com/JavadTalebiJava) 
 
 ## Project setup instructions
-Will let you know soon.
+
